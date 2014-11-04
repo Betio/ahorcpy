@@ -1,8 +1,11 @@
 ## ARCHIVO PRINCIPAL ##
+<<<<<<< HEAD
+=======
 print 'bienvenido al examen final de IPC 2014'
 print 'el programa se trata del famoso juego, ahorcado's
 
 
+>>>>>>> 5a37be574dbf11c4ffaede5c4c79ba7892695b66
 class Carro: 
     def __init__(self, gasolina):
         self.gasolina = gasolina
